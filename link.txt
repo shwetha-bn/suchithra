@@ -28,3 +28,4 @@ https://openei.org/datasets/dataset/nrel-efm-data-disaggregated-residential-load
 
 z=t*w1*sum(p*xih)*electricity_expenses+w2*sum(s1-alpha)*s1
 https://jack-kelly.com/data/
+<html>
