@@ -1,0 +1,30 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5982512/
+
+
+
+SHAMA      9986563013 5ece6
+rajeshwari 7022370788 5ce6
+muralidhara DM 9686421216 Mechanical dept
+
+https://github.com/dandynaufaldi/particle-swarm-optimized-clustering
+
+https://pythonhosted.org/pyswarm/#important-note
+
+https://searchcode.com/codesearch/view/40351216/
+https://pyswarms.readthedocs.io/en/latest/examples/usecases/inverse_kinematics.html#IK-as-an-Optimization-Problem
+
+
+answer
+https://gist.github.com/tstreamDOTh/4af1d6b5a641deda16641181aa1e9ee8
+
+
+https://www.rapidtables.com/calc/electric/electricity-calculator.html
+
+ab.bouakkaz@univ-skikda.dz Optimal Scheduling of Household Appliances in
+Off-Grid Hybrid Energy System using PSO
+Algorithm for Energy Saving
+https://openei.org/datasets/dataset/nrel-efm-data-disaggregated-residential-load-cost-data/resource/9944a9da-8de4-472e-9184-2470df049594
+
+
+z=t*w1*sum(p*xih)*electricity_expenses+w2*sum(s1-alpha)*s1
+https://jack-kelly.com/data/
